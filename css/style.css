@@ -1,0 +1,43 @@
+a.footer { color: #FFFFFF; font-weight: bold; text-decoration: none; }
+a.footer:hover { color: #FFFFFF; font-weight: bold; text-decoration: underline; }
+a.sloganwhite { color: #FFFFFF; text-decoration: none; }
+a.sloganwhite:hover { color: #FFFFFF; text-decoration: none; }
+body {background-color: #FFFFFF;}
+
+h1.comp_name {color: black; font-size: 23px; font-weight: bold; text-align: center; }
+h2.comp_tag { color: #000000; font-size: 18px; font-weight: bold; margin: 12px 0 12px 0; text-align: left; }
+h2.highlightbar { background-color: #88BBEE; color: white; font-size: 18px; font-weight: bold; padding: 4px; text-align: center; width: 100%; }
+h2.linkcategory { background-color: #AAAA66; color: white; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; margin: 0px; padding: 4px; width: 100%; }
+h2.services_navigation { background-color: #CCCCE6; color: white; font-size: 14px; font-weight: bold; margin: 0px; padding: 4px; text-align: center; width: 100%; }
+h3.tipsheadline { font-size: 15px; font-weight: bold; text-align: center; }
+
+img {border-style: none; width: auto }
+img.large_logo { text-align: center; }
+img.small_logo { }
+li { font-size: 13px; font-weight: normal; }
+p { color: #000000; font-size: 13px; font-weight: normal; line-height: 120%; margin: 0 0 13px 0; }
+p.addresstext {font-size: 13px; font-weight: bold; text-align: left; }
+p.center_body {text-align: left; }
+p.divrighthead { font-size: 13px; font-weight: bold; margin: 8px 4px 4px 4px; text-align: left; }
+p.footer-center { color: #AAAA66; font-size: 11px; margin-bottom: 0px; margin-top: 0px; text-align: center; }
+p.footer-left { color: #FFFFFF; font-size: 11px; margin-bottom: 0px; margin-top: 0px; text-align: left; }
+p.footer-right { color: #FFFFFF; font-size: 11px; margin-bottom: 0px; margin-top: 0px; text-align: right; }
+p.navlinks { color: black; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; margin: 0; padding: 0px 8px 4px 15px; }
+span.slogandark { color: gold; text-decoration: none; }
+table.outer { background-color: #CCCC99; margin: 0 10px 0 10px; margin-right: auto; margin-left: auto; text-align: center; width: 100%; }
+table.inner { width: 100%; }
+td.img_td {width: 30%; }
+td.footer { background-color: #000000; border: solid #808080; border-width: 1px 0 0 0; font-family: Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; text-decoration: none; }
+td.footer-nav  { background-color: #CCCCE6; font-family: Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; text-decoration: none; }
+td.logo { padding: 8px 0 8px 4px; text-align: center; width: 9.6; text-align: center; }
+td.logo2 { font-size: 8px; background-color: black; margin: 0px; padding: 0; }
+td.main_body { background-color: #FFFFFF; width: 60%; }
+td.main_body2 { background-color: #FFFFFF; width: 80%; }
+td.nav_menu { background-color: #CCCC99; width: 20%; }
+td.news_menu { background-color: #CCCCCC; border: solid black; border-width: 0px 1px 1px 1px; width: 20%; }
+td.slogan { color: white; font-size: 17px; font-weight: bold; text-decoration: none; text-align: left; }
+tr.footer { padding: 4px; }
+tr.logorow1 { background-color: #88BBEE; vertical-align: middle }
+tr.logorow2 { background-color: black; }
+ul.servicelist { list-style-type: square; }
+ul.tipslist { list-style-type: circle; }
